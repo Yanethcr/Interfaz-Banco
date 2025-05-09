@@ -1,0 +1,5 @@
+[
+    { "numero_cuenta": "123456789", "id_cliente": "C001", "nombre_cliente": "Margarita Gonzales Rivera", "tipo_tarjeta": "Débito", "saldo": 5000.00 },
+    { "numero_cuenta": "987654321", "id_cliente": "C002", "nombre_cliente": "Francisco Martinez Solares", "tipo_tarjeta": "Crédito", "saldo": 10000.00 },
+    { "numero_cuenta": "456789123", "id_cliente": "C003", "nombre_cliente": "Fernando Rodriguez Bernal", "tipo_tarjeta": "Débito", "saldo": 7500.00 }
+]
