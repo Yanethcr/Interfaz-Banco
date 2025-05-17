@@ -1,0 +1,12 @@
+[
+    {
+        "numero_cuenta": "123456789",
+        "id_cliente": "C001",
+        "nombre_cliente": "Margarita Gonzales",
+        "tipo_tarjeta": "Débito",
+        "saldo": 1000.0,
+        "nip": "1234",
+        "aclaraciones": [],
+        "movimientos": []
+    }
+]
