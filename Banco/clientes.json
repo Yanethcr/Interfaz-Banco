@@ -3,9 +3,57 @@
         "numero_cuenta": "123456789",
         "id_cliente": "C001",
         "nombre_cliente": "Margarita Gonzales",
-        "tipo_tarjeta": "Débito",
-        "saldo": 1000.0,
+        "tipo_tarjeta": "Debito",
+        "saldo": 2200.0,
         "nip": "1234",
+        "aclaraciones": [],
+        "movimientos": [
+            {
+                "tipo": "Deposito",
+                "monto": 500.0,
+                "timestamp": "2025-05-18 10:02:26"
+            },
+            {
+                "tipo": "Dep\u00f3sito",
+                "monto": 200.0,
+                "timestamp": "2025-05-18 13:06:10"
+            },
+            {
+                "tipo": "Dep\u00f3sito",
+                "monto": 500.0,
+                "timestamp": "2025-05-18 13:07:30"
+            }
+        ]
+    },
+    {
+        "numero_cuenta": "987654231",
+        "id_cliente": "C002",
+        "nombre_cliente": "Juan P\u00c3\u00a9rez",
+        "tipo_tarjeta": "Credito",
+        "saldo": 14000.0,
+        "nip": "5678",
+        "aclaraciones": [],
+        "movimientos": [
+            {
+                "tipo": "Pago Anualidad",
+                "monto": 2000.0,
+                "timestamp": "2025-05-18 10:09:48"
+            },
+            {
+                "tipo": "Pago Anualidad",
+                "monto": 4000.0,
+                "timestamp": "2025-05-18 10:17:13"
+            }
+        ],
+        "anualidad_pendiente": 4000.0
+    },
+    {
+        "numero_cuenta": "1747587166284",
+        "id_cliente": "C004",
+        "nombre_cliente": "Karla Cruz",
+        "tipo_tarjeta": "Debito",
+        "saldo": 0.0,
+        "nip": "4563",
         "aclaraciones": [],
         "movimientos": []
     }
